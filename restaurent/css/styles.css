@@ -14,8 +14,7 @@ body{
 {
 	background: url('../images/restaurant-logo_large.png') no-repeat;
 	width: 150px;
-	height: 150px;
-    margin-left: -40px; 
+	height: 150px; 
 }
 .navbar-brand{
 	padding-top: 25px;
