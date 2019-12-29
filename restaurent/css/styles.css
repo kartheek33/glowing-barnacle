@@ -148,6 +148,10 @@ opacity: .8;
 #menu-categories-title + div{
 	margin-bottom: 50px;
 }
+/*single-category*/
+#menu-item-tile {
+	margin-bottom: 25px;
+}
 
 /*Footer*/
 .panel-footer{
